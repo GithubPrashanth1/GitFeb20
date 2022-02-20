@@ -7,6 +7,8 @@ namespace Feb20Proj
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Prashanth!");
+            Console.WriteLine("Hello Kumar!");
+            Console.WriteLine("Hello Kammari!");
         }
     }
 }
